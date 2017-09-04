@@ -1,0 +1,16 @@
+{
+  "name": "ec-ejs-dynamic-include",
+  "description": "csta-ejs-dynamic-include",
+  "repository": "https://github.com/express-components/ec-ejs-dynamic-include",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "LGPL-3.0"
+}
